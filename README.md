@@ -10,7 +10,7 @@
 [![Android 15+](https://img.shields.io/badge/Android-15%2B-green.svg)](#环境要求)
 [![LSPosed](https://img.shields.io/badge/LSPosed-Module-orange.svg)](#安装)
 
-[English](README_EN.md)
+[English](https://github.com/Xposed-Modules-Repo/io.github.khiqwq.pinguard/blob/main/README_EN.md)
 
 </div>
 
