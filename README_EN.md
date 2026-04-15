@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="icon.svg" width="80" alt="icon" />
+<img src="icon.png" width="80" alt="icon" />
 
 # PinGuard
 
